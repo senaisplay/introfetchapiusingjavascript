@@ -1,0 +1,28 @@
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.deps.json
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.runtimeconfig.json
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.runtimeconfig.dev.json
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.dll
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.csprojAssemblyReference.cache
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.AssemblyInfo.cs
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.pdb
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.dll
+C:\Users\Public\Documents\source\repos\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.pdb
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.deps.json
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.runtimeconfig.json
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.runtimeconfig.dev.json
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.dll
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\bin\Debug\netcoreapp2.1\PlaygroundAPI.pdb
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.csprojAssemblyReference.cache
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorAssemblyInfo.cache
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorAssemblyInfo.cs
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.AssemblyInfo.cs
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.dll
+C:\Users\Public\Documents\source\javascript\Introdução ao Fetch API\PlaygroundAPI\PlaygroundAPI\obj\Debug\netcoreapp2.1\PlaygroundAPI.pdb
